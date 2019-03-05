@@ -10,10 +10,9 @@ b) Twitter id [Bhavneet Singh](https://twitter.com/Bhavnee48368854)
 ### Challenges
 a) [Payment Challenge](https://github.com/singhbhavneet/Flutter-Dribbble-Challenge/tree/master/payment)- [Online Banking App](https://dribbble.com/shots/6104857-Online-Banking-App)
 
-### ScreenShots
-![s1.png](https://www.dropbox.com/s/uqzqrw7bm38d0on/s1.png?dl=0&raw=1)
+### 
 
-![s2.png](https://www.dropbox.com/s/46ifalal147l63q/s2.png?dl=0&raw=1)
+![payment.gif](https://www.dropbox.com/s/zu4s67jygl3qpax/payment.gif?dl=0&raw=1)
 
 
 ## Authors
