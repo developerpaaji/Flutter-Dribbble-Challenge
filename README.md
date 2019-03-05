@@ -2,7 +2,7 @@
 A Flutter ui kit made with designs from dribbble.
 
 ## Introduction
-Hey community I am a beginner in developing so to imporove my work I have started a dribbble challenge where anybody can send me dribble link with which will I try to make a similar flutter app.I am a college student so can only work on this on Saturday and Sunday.
+Hey community I am a beginner in developing so to imporove my work I have started a dribbble challenge where anybody can send me dribbble link with which will I try to make a similar flutter app.I am a college student so can only work on this on Saturday and Sunday.
 You can challenge me by 
 a) Email id  [singhbhavneetdeveloper@gmail.com](https://gmail.com/)
 b) Twitter id [Bhavneet Singh](https://twitter.com/Bhavnee48368854)
