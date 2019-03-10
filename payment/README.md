@@ -1,16 +1,11 @@
 # payment
 
-Flutter payment app ui.
+Flutter payment app ui.-[Dribble Challenge](https://dribbble.com/shots/6104857-Online-Banking-App)
 
-## Getting Started
+## Screenshots
+![s1.png](https://www.dropbox.com/s/uqzqrw7bm38d0on/s1.png?dl=0&raw=1)![s2.png](https://www.dropbox.com/s/46ifalal147l63q/s2.png?dl=0&raw=1) 
 
-This project is a starting point for a Flutter application.
+### If you like this repository then show some ♥ by giving stars on repo.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Author
+[Bhavneet Singh](https://github.com/singhbhavneet/)
