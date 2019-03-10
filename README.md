@@ -8,12 +8,17 @@ a) Email id  [singhbhavneetdeveloper@gmail.com](https://gmail.com/)
 b) Twitter id [Bhavneet Singh](https://twitter.com/Bhavnee48368854)
 
 ### Challenges
-a) [Payment Challenge](https://github.com/singhbhavneet/Flutter-Dribbble-Challenge/tree/master/payment)- [Online Banking App](https://dribbble.com/shots/6104857-Online-Banking-App)
+a) [Challenge0 ](https://github.com/singhbhavneet/Flutter-Dribbble-Challenge/tree/master/lib/challenge0)- [Online Banking App](https://dribbble.com/shots/6104857-Online-Banking-App)
 
-### 
+![ezgif.com-resize (2).gif](https://www.dropbox.com/s/1b5lbhfm0uhg68i/ezgif.com-resize%20%282%29.gif?dl=0&raw=1)
 
-![payment.gif](https://www.dropbox.com/s/zu4s67jygl3qpax/payment.gif?dl=0&raw=1)
+b) [Challenge1](https://github.com/singhbhavneet/Flutter-Dribbble-Challenge/tree/master/lib/challenge1)- [Persistent Modal Sheet](https://twitter.com/Carbon187/status/1102998527427428353)
 
+![challenge1.gif](https://www.dropbox.com/s/eknjn9vqky9dl2v/ezgif.com-resize.gif?dl=0&raw=1)
+
+b) [Challenge2](https://github.com/singhbhavneet/Flutter-Dribbble-Challenge/tree/master/lib/challenge2)- [Headspace Onboarding](https://dribbble.com/shots/4931482-Headspace-Onboarding-Redesign)
+
+![ezgif.com-resize (1).gif](https://www.dropbox.com/s/pfo133mgpz4l1lv/ezgif.com-resize%20%281%29.gif?dl=0&raw=1)
 
 ## Authors
 
