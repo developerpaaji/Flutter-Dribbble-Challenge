@@ -20,6 +20,12 @@ b) [Challenge2](https://github.com/singhbhavneet/Flutter-Dribbble-Challenge/tree
 
 ![ezgif.com-resize (1).gif](https://www.dropbox.com/s/pfo133mgpz4l1lv/ezgif.com-resize%20%281%29.gif?dl=0&raw=1)
 
+##Learning Resources
+
+a) Flutter: Animated Builder | Improve Performance | Ep 2 | Flutter Weekly Widgets[](https://www.youtube.com/watch?v=ssz7pJQTokM)
+
+b)[A Deep Dive Into Draggable and DragTarget in Flutter](https://medium.com/flutter-community/a-deep-dive-into-draggable-and-dragtarget-in-flutter-487919f6f1e4)
+
 ## Authors
 
 * **Bhavneet Singh**  - [singhbhavneet](https://github.com/singhbhavneet)
