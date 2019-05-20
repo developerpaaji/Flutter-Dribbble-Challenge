@@ -145,6 +145,7 @@ class _QuizScreenState extends State<QuizScreen> {
   void convertToAnswered() {
     Future.delayed(Duration(seconds: 1,milliseconds: 500)).then((val) {
       showAnswer = true;
+      if(mounted)
       setState(() {});
       Future.delayed(Duration(seconds: 2)).then((val) {
         widget.onCompleted();

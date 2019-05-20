@@ -11,7 +11,7 @@ class Question {
         correctAnswer = json["correct_answer"];
   List<String> get options {
     List<String> options = [];
-    options.addAll(incorrectAnswers);
+    options.addAll(incorrectAnswers.take(2));
     options.insert(2, correctAnswer);
     return options;
   }
