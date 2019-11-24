@@ -2,10 +2,9 @@
 A Flutter ui kit made with designs from dribbble.
 
 ## Introduction
-Hey community I am a beginner in developing so to imporove my work I have started a dribbble challenge where anybody can send me dribbble link with which will I try to make a similar flutter app.I am a college student so can only work on this on Saturday and Sunday.
-You can challenge me by 
-a) Email id  [singhbhavneetdeveloper@gmail.com](https://gmail.com/)
-b) Twitter id [Bhavneet Singh](https://twitter.com/Bhavnee48368854)
+
+I am Bhavneet Singh a freelancer who is always excited to work on new projects. If you have interesting work for me then contact me at singhbhavneetdeveloper@gmail.com.
+
 
 ### Challenges
 a) [Challenge0 ](https://github.com/singhbhavneet/Flutter-Dribbble-Challenge/tree/master/lib/challenge0)- [Online Banking App](https://dribbble.com/shots/6104857-Online-Banking-App)
