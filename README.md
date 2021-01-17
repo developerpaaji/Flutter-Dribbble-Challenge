@@ -38,7 +38,3 @@ c) [RadialSeekBar tutorial by Fluttery](https://youtu.be/FE7Vtzq52xg?t=2076)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-Its because of my mummy's motivation,god's blessing and family'support that I am able to complete this project.
